@@ -28,7 +28,6 @@ A modern, responsive linktree application built with React and Vite. Features a 
 2. Install dependencies:
    ```bash
    npm install
-   npm install react-icons
    ```
 3. Start the development server:
    ```bash
